@@ -1,0 +1,8 @@
+FlagEmbedding
+numpy
+openai
+pandas
+pyserini
+six
+spacy
+tqdm
